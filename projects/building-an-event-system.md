@@ -4,7 +4,7 @@ thumbnail: "/uploads/title.png"
 title: Building an Event system
 categories: []
 project_bg_color: ''
-project_fg_color: ''
+project_fg_color: "#F8E71C"
 
 ---
 ![](/uploads/maxresdefault.jpg)

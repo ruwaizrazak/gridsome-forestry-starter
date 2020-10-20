@@ -14,7 +14,7 @@ We needed a periodical tournament system to engage players within a particular i
 ### Solved
 
 ☑️ Created a tournament system with different rank buckets within the game  
-☑️ Design VFXs and promotion animations which would elevate user's experience.
+☑️ Design VFX and promotion animations which would elevate the user's experience.
 
 ### Outcome
 

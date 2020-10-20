@@ -18,7 +18,7 @@ We needed a periodical tournament system to engage players within a particular i
 
 ### Outcome
 
-📊 User Engagement and User progression rate got increased. 
+📊 User Engagement and User progression rate got increased.
 
 ***
 
@@ -65,3 +65,36 @@ We started looking at lots of games that have any events inside them. These are 
 At this part, I and the Game design lead started creating the architecture for the system.
 
 Based on our researches and studies, we decided that the event should be based on the gunning mode and the users will get assessed and rewarded based on their progress in the core loop.
+
+![](/uploads/dhhooked.jpg)
+
+#### Proposition
+
+We will be building a tournament event that would appear on every weekend along with an internal tool that helps designers and developers too setup the event with relatively minimal effort than before.
+
+#### Concept
+
+* The event will be based on gunning mode
+* Will trigger within a defined period, for eg: every weekend.
+* At the end of the event, users will be rewarded
+* The event will be announced exclusively
+* Winnings will be celebrated
+* There won't be any pay to win scenario
+
+#### Structure
+
+We incorporated the event loop into the core loop as shown below:
+
+![](/uploads/fesstructure.jpg)
+
+### Wireframes
+
+![](/uploads/fesixd-2.jpg)
+
+### Visual Design
+
+![](/uploads/fesvd-3.jpg)
+
+### Conclusion
+
+Once the event went out, we noticed that the user engagement on event days is comparatively intense than other days. As this event is tied to the normal progression, user progression rates rose with monetary benefits. We also noticed a spike in elder players (user's who've been playing the game for a longer time) engagement.

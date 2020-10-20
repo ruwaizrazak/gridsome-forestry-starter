@@ -1,7 +1,7 @@
 ---
 thumbnail: "/uploads/dh2018-video-placeholder.jpg"
 title: Optimizing Onboarding Funnel
-date: 2019-01-03
+date: 2018-12-14
 categories:
 - Glu Mobile
 - '2018'

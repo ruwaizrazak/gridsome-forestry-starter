@@ -7,6 +7,8 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
+![](/uploads/maxresdefault.jpg)
+
 ### Problem Statement
 
 We needed a periodical tournament system to engage players within a particular interval. We also have to make sure that, it's not heavy on our resources as well.

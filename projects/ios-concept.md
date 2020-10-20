@@ -41,7 +41,7 @@ A huge chunk of the new users is getting churned out at the early stage.
 
 During my initial days at Glu mobile, I started looking at the data to identify opportunities to improvise the user experience of the game as I believe that everything related to the product from app install to customer service is a part of user experience.
 
-As I was monitoring the data using **Tableau**, I came to notice a significant churn rate (churn rate basically means the rate of user drop) as they get into each step of the game, which triggered me to look deeper for the cause and started looking at more quantitative and qualitative data. 
+As I was monitoring the data using **Tableau**, I came to notice a significant churn rate (churn rate basically means the rate of user drop) as they get into each step of the game, which triggered me to look deeper for the cause and started looking at more quantitative and qualitative data.
 
 ### Identifying the problem.
 

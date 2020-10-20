@@ -1,6 +1,6 @@
 ---
 date: 2018-10-11
-thumbnail: "/uploads/maxresdefault.jpg"
+thumbnail: "/uploads/title.png"
 title: Building an Event system
 categories: []
 project_bg_color: ''
